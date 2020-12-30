@@ -1,0 +1,140 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020, Reginald Maltais
+# This file is distributed under the same license as the NDVI Calculator
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: NDVI Calculator \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-29 16:46-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.7.0\n"
+
+#: ../../other.rst:2
+msgid "What is this about?"
+msgstr ""
+
+#: ../../other.rst:4
+msgid ""
+"The `Government of Canada Digital Standards "
+"<https://www.canada.ca/en/government/system/digital-government"
+"/government-canada-digital-standards.html>`_ guide how we are expected to"
+" produce our work. Among others, here are some relevant points:"
+msgstr ""
+
+#: ../../other.rst:8
+msgid "Design with users"
+msgstr ""
+
+#: ../../other.rst:10
+msgid ""
+"Research with users to understand their needs and the problems we want to"
+" solve. Conduct ongoing testing with users to guide design and "
+"development."
+msgstr ""
+
+#: ../../other.rst:13
+msgid "Iterate and improve frequently"
+msgstr ""
+
+#: ../../other.rst:15
+msgid ""
+"Develop services using agile, iterative and user-centred methods. "
+"Continuously improve in response to user needs. Try new things, start "
+"small and scale up."
+msgstr ""
+
+#: ../../other.rst:18
+msgid "Build in accessibility from the start"
+msgstr ""
+
+#: ../../other.rst:20
+msgid ""
+"Services should meet or exceed accessibility standards. Users with "
+"distinct needs should be engaged from the outset to ensure what is "
+"delivered will work for everyone."
+msgstr ""
+
+#: ../../other.rst:23
+msgid "Why documentation matters"
+msgstr ""
+
+#: ../../other.rst:25
+msgid ""
+"Building user-centred and accessible products isn't only about the "
+"product, but about the documentation for that product as well. At some "
+"point the user will have questions, and they need the documentation to be"
+" able to answer those questions."
+msgstr ""
+
+#: ../../other.rst:29
+msgid ""
+"`GC AI guiding principles <https://www.canada.ca/en/government/system"
+"/digital-government/digital-government-innovations/responsible-use-"
+"ai.html#toc1>`_"
+msgstr ""
+
+#: ../../other.rst:31
+msgid "To ensure the effective and ethical use of AI the government will:"
+msgstr ""
+
+#: ../../other.rst:33
+msgid ""
+"understand and measure the impact of using AI by developing and sharing "
+"tools and approaches"
+msgstr ""
+
+#: ../../other.rst:34
+msgid ""
+"be transparent about how and when we are using AI, starting with a clear "
+"user need and public benefit"
+msgstr ""
+
+#: ../../other.rst:35
+msgid ""
+"provide meaningful explanations about AI decision making, while also "
+"offering opportunities to review results and challenge these decisions"
+msgstr ""
+
+#: ../../other.rst:36
+msgid ""
+"be as open as we can by sharing source code, training data, and other "
+"relevant information, all while protecting personal information, system "
+"integration, and national security and defence"
+msgstr ""
+
+#: ../../other.rst:37
+msgid ""
+"provide sufficient training so that government employees developing and "
+"using AI solutions have the responsible design, function, and "
+"implementation skills needed to make AI-based public services better"
+msgstr ""
+
+#: ../../other.rst:39
+msgid ""
+"Writing an API? `Documenting your API "
+"<https://www.canada.ca/en/government/system/digital-government/modern-"
+"emerging-technologies/government-canada-standards-apis.html>`_ is still "
+"important, but avoid creating *heavy* documentation."
+msgstr ""
+
+#: ../../other.rst:44
+msgid "I use these arguments, even though I just made them up..."
+msgstr ""
+
+#: ../../other.rst:44
+msgid "mohammed alqahtani"
+msgstr ""
+
+#: ../../other.rst:46
+msgid "Project structure::"
+msgstr ""
+

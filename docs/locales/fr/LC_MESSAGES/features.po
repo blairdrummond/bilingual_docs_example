@@ -1,0 +1,369 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020, Reginald Maltais
+# This file is distributed under the same license as the NDVI Calculator
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: NDVI Calculator \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-29 16:46-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.7.0\n"
+
+#: ../../features.rst:2
+msgid "reStructuredText & Sphinx features"
+msgstr "Les caractéristiques de reStructuredText et Sphinx"
+
+#: ../../features.rst:4
+msgid ""
+"Here are some highlights of features that are likely to be useful to data"
+" scientists and managers alike."
+msgstr "Voici quelques points forts des fonctionnalités susceptibles d'être"
+" utiles aux scientifiques et aux gestionnaires de données."
+
+#: ../../features.rst:7
+msgid "Basic text editing"
+msgstr "Traitement de texte de base"
+
+#: ../../features.rst:9
+msgid ""
+"Common text formatting is easy to implement through ``*`` and ````` "
+"characters::"
+msgstr "Le formatage de texte commun est facile à mettre en œuvre grâce aux caractères ``*`` et `````::"
+
+#: ../../features.rst:14
+msgid ""
+"Mark *italic text* with one asterisk, **bold text** with two. For "
+"``monospaced text``, use two \"backquotes\" instead."
+msgstr "Marquez *texte italique* avec un astérisque, **texte gras** avec deux. Pour le ``texte à simple interligne``, utilisez plutôt deux \"apostrophes\"."
+
+#: ../../features.rst:18
+msgid "Escaping text elements"
+msgstr "Éléments de texte échappés"
+
+#: ../../features.rst:20
+msgid ""
+"If you want to literally insert the ``*`` or ````` characters, you can "
+"escape them by including a backslash::"
+msgstr "Si vous voulez insérer littéralement les caractères ``*`` ou `````, vous pouvez les échapper en incluant une barre oblique inversée::"
+
+#: ../../features.rst:26
+msgid "Lists"
+msgstr "Listes"
+
+#: ../../features.rst:28
+msgid ""
+"You can create ordered and unordered lists easily by starting a line with"
+" ``*``, ``-``, or ``+``. Numbered lists start like ``1.``::"
+msgstr ""
+"Vous pouvez créer facilement des listes ordonnées et non ordonnées en commençant une ligne par"
+" ``*``, ``-``, or ``+``. Les listes numérotées commencent comme suit ``1.``::"
+
+#: ../../features.rst:41
+msgid "This will create"
+msgstr "Cela créera"
+
+#: ../../features.rst:42
+msgid "an unordered list"
+msgstr "une liste non ordonnée"
+
+#: ../../features.rst:44
+msgid "even multiple levels"
+msgstr "même à plusieurs niveaux"
+
+#: ../../features.rst:46
+msgid "are possible"
+msgstr "sont possibles"
+
+#: ../../features.rst:48
+msgid "This is an"
+msgstr "Voici une"
+
+#: ../../features.rst:49
+msgid "ordered one"
+msgstr "liste ordonnée"
+
+#: ../../features.rst:51
+msgid ""
+"Use ``.. hlist::`` to create a list that spreads its terms over "
+"horizontal columns."
+msgstr ""
+"Utilisez ``.. hlist::`` pour créer une liste qui répartit ses termes sur des colonnes horizontales."
+
+#: ../../features.rst:56
+msgid "A list of"
+msgstr "Une liste"
+
+#: ../../features.rst:57
+msgid "short items"
+msgstr "d'articles courts"
+
+#: ../../features.rst:58
+msgid "that should be"
+msgstr "qui doivent être"
+
+#: ../../features.rst:59
+msgid "displayed"
+msgstr "affichés"
+
+#: ../../features.rst:60
+msgid "horizontally"
+msgstr "horizontalement"
+
+#: ../../features.rst:63
+msgid "Code and console markup"
+msgstr "Code et balisage de la console"
+
+#: ../../features.rst:65
+msgid ""
+"Generic code sections are denoted by ending a paragraph with ``::`` "
+"characters and then indenting whatever you want to be highlighted as "
+"code::"
+msgstr ""
+"Les sections de code générique sont désignées en terminant un paragraphe par les caractères ``::`` et en mettant en retrait ce que vous voulez mettre en évidence comme code::"
+
+#: ../../features.rst:72
+msgid ""
+"De-indenting then returns you to \"normal\" text. If you don't have any "
+"descriptive text for some reason, you can just put the ``::`` on a line "
+"by itself."
+msgstr ""
+"La suppression du retrait vous ramène alors au texte \"normal\". Si vous n'avez pas de texte descriptif pour une raison quelconque, vous pouvez simplement mettre le ``::`` sur une ligne à part."
+
+#: ../../features.rst:76
+msgid "Importing docstrings"
+msgstr "Importer des docstring"
+
+#: ../../features.rst:78
+msgid "You can import documentation from modules automatically::"
+msgstr "Vous pouvez importer automatiquement la documentation des modules::"
+
+#: ndvi.ndvi.read_image:1 of
+msgid "Download an image masked by a polygon geometry."
+msgstr "Téléchargez une image masquée par une géométrie de polygone."
+
+#: ndvi.ndvi.read_image of
+msgid "Parameters"
+msgstr "Paramètres"
+
+#: ndvi.ndvi.read_image:3 of
+msgid "URL to the GeoTIFF"
+msgstr "URL du GeoTIFF"
+
+#: ndvi.ndvi.read_image:4 of
+msgid "Geometry used to mask (clip) the image as a GeoJSON-like dict"
+msgstr "Géométrie utilisée pour masquer (clip) l'image comme un dict de type GeoJSON"
+
+#: ndvi.ndvi.read_image of
+msgid "Returns"
+msgstr "Rendre"
+
+#: ndvi.ndvi.read_image:5 of
+msgid ""
+"A masked image and the transform that was applied to it, along with the "
+"image metadata"
+msgstr ""
+"Une image masquée et la transformation qui lui a été appliquée, ainsi que les métadonnées de l'image"
+
+#: ../../features.rst:86
+msgid "Hard line breaks and quotes"
+msgstr "Ruptures de ligne et citations"
+
+#: ../../features.rst:88
+msgid ""
+"You can force newlines for text by starting the line with the ``|`` "
+"character::"
+msgstr ""
+"Vous pouvez forcer les nouvelles lignes du texte en commençant la ligne par le caractère ``|``.::"
+
+#: ../../features.rst:93
+msgid "100 Tunney's Pasture Driveway"
+msgstr ""
+
+#: ../../features.rst:94
+msgid "Ottawa, Ontario"
+msgstr ""
+
+#: ../../features.rst:96
+msgid ""
+"Quotes are denoted using blank spaces at the beginning of a line to inset"
+" the text."
+msgstr ""
+"Les citations sont indiquées en utilisant des espaces vides au début d'une ligne pour insérer le texte."
+
+#: ../../features.rst:98
+msgid "To be or not to be... *William Shakespear*"
+msgstr ""
+
+#: ../../features.rst:102
+msgid "Mathematic notation"
+msgstr "Notation mathématique"
+
+#: ../../features.rst:104
+msgid ""
+"You can enter math formulas in multiple ways. Inline expressions, like "
+":math:`a^2 + b^2 = c^2`, are marked using ``:math:``. Longer formulas use"
+" the ``.. math::`` directive::"
+msgstr ""
+
+#: ../../features.rst:113
+msgid "(a + b)^2 = a^2 + 2ab + b^2  (a - b)^2 = a^2 - 2ab + b^2"
+msgstr ""
+
+#: ../../features.rst:119
+msgid "or"
+msgstr "ou"
+
+#: ../../features.rst:121
+msgid ""
+"\\begin{eqnarray}    y    & = & ax^2 + bx + c \\\\    f(x) & = & x^2 + "
+"2xy + y^2 \\end{eqnarray}"
+msgstr ""
+
+#: ../../features.rst:129
+msgid "Multi-line exquations are possible as well::"
+msgstr "Des exquations multi-lignes sont également possibles::"
+
+#: ../../features.rst:136
+msgid "(a + b)^2  &=  (a + b)(a + b) \\\\            &=  a^2 + 2ab + b^2"
+msgstr ""
+
+#: ../../features.rst:142
+msgid "Tables"
+msgstr "Tables"
+
+#: ../../features.rst:144
+msgid ""
+"Markdown doesn't support tables, though they are possible through "
+"extensions like :abbr:`GFM (GitLab Flavoured Markdown)`. You can generate"
+" tables in two different ways: (1) grid tables or (2) simple tables::"
+msgstr ""
+"La démarque ne supporte pas les tableaux, bien qu'ils soient possibles grâce à des extensions comme :abbr:`GFM (GitLab Flavoured Markdown)`."
+"Vous pouvez générer des tableaux de deux manières différentes : (1) tableaux quadrillés ou (2) tableaux simples::"
+
+#: ../../features.rst:163 ../../features.rst:191
+msgid "Table Headings"
+msgstr "Titres des tables"
+
+#: ../../features.rst:163 ../../features.rst:191
+msgid "Here"
+msgstr "Ici"
+
+#: ../../features.rst:165 ../../features.rst:193
+msgid "Sub"
+msgstr "sous"
+
+#: ../../features.rst:165 ../../features.rst:193
+msgid "Headings"
+msgstr "titres"
+
+#: ../../features.rst:165 ../../features.rst:193
+msgid "Too"
+msgstr "aussi"
+
+#: ../../features.rst:167
+msgid "cell spans rows"
+msgstr "la cellule s'étend sur les lignes"
+
+#: ../../features.rst:167 ../../features.rst:195 ../../features.rst:198
+msgid "column spanning"
+msgstr "colonne couvrant"
+
+#: ../../features.rst:169
+msgid "normal"
+msgstr "normale"
+
+#: ../../features.rst:169 ../../features.rst:197
+msgid "cell"
+msgstr "colonne"
+
+#: ../../features.rst:171
+msgid "multi line cells too"
+msgstr "les colonnes multi-lignes aussi"
+
+#: ../../features.rst:171
+msgid "cells can be"
+msgstr "colonnes peut-être"
+
+#: ../../features.rst:172
+msgid "formatted"
+msgstr "format"
+
+#: ../../features.rst:173
+msgid "paragraphs"
+msgstr "paragraphs"
+
+#: ../../features.rst:195
+msgid "no"
+msgstr "pas"
+
+#: ../../features.rst:197
+msgid "row"
+msgstr "de "
+
+#: ../../features.rst:198
+msgid "spans"
+msgstr "rangée"
+
+#: ../../features.rst:202
+msgid "Definition lists"
+msgstr "Listes de définitions"
+
+#: ../../features.rst:204
+msgid ""
+"Creating definition lists are relatively simple, and will end up creating"
+" terms for the glossary."
+msgstr ""
+"La création de listes de définitions est relativement simple, et finira par créer des termes pour le glossaire."
+
+#: ../../features.rst:208
+msgid "term"
+msgstr "terme"
+
+#: ../../features.rst:207
+msgid ""
+"word, expression, phrase, turn of phrase, idiom, locution; name, title, "
+"denomination, designation, label; formal appellation."
+msgstr "mot, expression, phrase, expression tournante, idiome, locution ; nom, titre, dénomination, désignation, étiquette ; appellation formelle."
+
+#: ../../features.rst:211
+msgid "Comments"
+msgstr "Commentaires"
+
+#: ../../features.rst:213
+msgid ""
+"There is no support for comments in Markdown, which means any discussions"
+" around the content or hints need to take place outside of the content "
+"itself. This makes maintenance more difficult, and can lead to "
+"miscommunication between content maintainers."
+msgstr ""
+"Le système de notation ne prend pas en charge les commentaires, ce qui signifie que toute discussion sur le contenu ou les indices doit se dérouler en dehors du contenu lui-même. Cela rend la maintenance plus difficile et peut conduire à une mauvaise communication entre les responsables de la maintenance du contenu."
+
+#: ../../features.rst:217
+msgid ""
+"You can create comments by creating a line with just two dots at the "
+"start::"
+msgstr "Vous pouvez créer des commentaires en créant une ligne avec seulement deux points au début::"
+
+#: ../../features.rst:226
+msgid "Other features"
+msgstr "Autres fonctionnalités"
+
+#: ../../features.rst:228
+msgid ""
+"reStructuredText and Sphinx have many more language features that you can"
+" explore in the `documentation <https://www.sphinx-"
+"doc.org/en/master/usage/restructuredtext/index.html>`_."
+msgstr ""
+"reStructuredText et Sphinx ont de nombreuses autres caractéristiques"
+" linguistiques que vous pouvez explorer dans la `documentation <https://www.sphinx-"
+"doc.org/en/master/usage/restructuredtext/index.html>`_."
+

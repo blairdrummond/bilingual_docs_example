@@ -1,0 +1,167 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020, Reginald Maltais
+# This file is distributed under the same license as the NDVI Calculator
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: NDVI Calculator \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-29 16:46-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.7.0\n"
+
+#: ../../management/project_plan.rst:5
+msgid "Project Plan: NDVI Calculator"
+msgstr ""
+
+#: ../../management/project_plan.rst:7
+msgid "Project Lead: @canada.ca"
+msgstr ""
+
+#: ../../management/project_plan.rst:9
+msgid ""
+"** Revision Table for Changes to Project**: This section serves to "
+"control the development and distribution of revisions to the document. "
+"Please include all crucial scope modifications, major environmental "
+"factors that incluence the project, funding fluctuations, resource "
+"requirement changes, etc. These changes must be discussed and approved by"
+" the project team."
+msgstr ""
+
+#: ../../management/project_plan.rst:14
+msgid "The standard for naming:"
+msgstr ""
+
+#: ../../management/project_plan.rst:16
+msgid "Standard is *vR.V*."
+msgstr ""
+
+#: ../../management/project_plan.rst:17
+msgid ""
+"*R* is a release, one complete cycle through the Deliberable Review "
+"Process or Internal Review Process. A Release contains one or more "
+"versions."
+msgstr ""
+
+#: ../../management/project_plan.rst:19
+msgid ""
+"*V* is a version, interim iterations before an approved release. Version "
+"is incremented at the discretion of the author or at least once per "
+"version issued. Documents with the same version identification must be "
+"identical."
+msgstr ""
+
+#: ../../management/project_plan.rst:22
+msgid "**Example**"
+msgstr ""
+
+#: ../../management/project_plan.rst:24
+msgid "CMP v1.2"
+msgstr ""
+
+#: ../../management/project_plan.rst:25
+msgid "CMP v1.3"
+msgstr ""
+
+#: ../../management/project_plan.rst:26
+msgid "CMP v2.0"
+msgstr ""
+
+#: ../../management/project_plan.rst:29
+msgid "Revision #"
+msgstr ""
+
+#: ../../management/project_plan.rst:29
+msgid "Author"
+msgstr ""
+
+#: ../../management/project_plan.rst:29
+msgid "Description of Change"
+msgstr ""
+
+#: ../../management/project_plan.rst:29
+msgid "Date of Approved Change (DD-MM-YYYY)"
+msgstr ""
+
+#: ../../management/project_plan.rst:43
+msgid "Contents"
+msgstr ""
+
+#: ../../management/project_plan.rst:46
+msgid "Intake Form"
+msgstr ""
+
+#: ../../management/project_plan.rst:49
+msgid "Project Description"
+msgstr ""
+
+#: ../../management/project_plan.rst:53
+msgid "Calculating the NDVI for a given polygon using Landsat 8 imagery from AWS."
+msgstr ""
+
+#: ../../management/project_plan.rst:56
+msgid "Clients"
+msgstr ""
+
+#: ../../management/project_plan.rst:60
+msgid "Reginald Maltais"
+msgstr ""
+
+#: ../../management/project_plan.rst:63
+msgid "Jira Link"
+msgstr ""
+
+#: ../../management/project_plan.rst:67
+msgid "Assessment of Requirements"
+msgstr ""
+
+#: ../../management/project_plan.rst:70
+msgid "Feasibility"
+msgstr ""
+
+#: ../../management/project_plan.rst:72
+msgid "|uncheck| Technical feasibility"
+msgstr ""
+
+#: ../../management/project_plan.rst:75
+msgid "Data availability"
+msgstr ""
+
+#: ../../management/project_plan.rst:77
+msgid "|uncheck| Data available (generated)"
+msgstr ""
+
+#: ../../management/project_plan.rst:79
+msgid ""
+"If yes, describe data (clean, labelled, etc.). If no, describe why there "
+"is no data and what is being done to remedy this situation."
+msgstr ""
+
+#: ../../management/project_plan.rst:82
+msgid "System Requirements"
+msgstr ""
+
+#: ../../management/project_plan.rst:84
+msgid "Infrastructure Requirements: Please list (Cloud, GPU, HPC)"
+msgstr ""
+
+#: ../../management/project_plan.rst:86
+msgid "Hardware system requirements: please list"
+msgstr ""
+
+#: ../../management/project_plan.rst:88
+msgid "Software requirements: please list"
+msgstr ""
+
+#: ../../management/project_plan.rst:91
+msgid "Resources"
+msgstr ""
+

@@ -1,0 +1,100 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020, Reginald Maltais
+# This file is distributed under the same license as the NDVI Calculator
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: NDVI Calculator \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-29 16:46-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.7.0\n"
+
+#: ../../md_vs_rst.rst:2
+msgid "Markdown vs reStructuredText"
+msgstr ""
+
+#: ../../md_vs_rst.rst:4
+msgid ""
+"Markdown is commonly used for writing documentation and other elements in"
+" a project. While it is possible to continue using Markdown in Sphinx, it"
+" is not recommended for a few different reasons."
+msgstr ""
+
+#: ../../md_vs_rst.rst:7
+msgid "Lack of a standard"
+msgstr ""
+
+#: ../../md_vs_rst.rst:8
+msgid "Flavours"
+msgstr ""
+
+#: ../../md_vs_rst.rst:9
+msgid "Lack of Extensibility"
+msgstr ""
+
+#: ../../md_vs_rst.rst:10
+msgid "Lack of Semantic Meaning"
+msgstr ""
+
+#: ../../md_vs_rst.rst:12
+msgid ""
+"Markdown was originally `created by John Gruber "
+"<https://daringfireball.net/projects/markdown/>`_ for use in blog "
+"engines. It was only intended to produce HTML output using text normally "
+"found in a blog article. It covers a fair amount of normal text use "
+"cases, but purposely excludes some of the more difficult elements such as"
+" tables and figures. Support for extensions are also missing, which means"
+" your documents have very little semantic meaning. This replicates the "
+"problem commonly found with PDF parsing."
+msgstr ""
+
+#: ../../md_vs_rst.rst:18
+msgid ""
+"Due to the lack of a formal standard, Markdown has several different "
+"*flavours* that are not consistent across implementations. For example, "
+"GitLab uses one flabour, but GitHub uses another. These are mostly "
+"consistent for normal cases, but are not guaranteed to be. Other flavours"
+" exist as well, such as the one implemented by ``pandoc``."
+msgstr ""
+
+#: ../../md_vs_rst.rst:23
+msgid "reStructuredText as a solution"
+msgstr ""
+
+#: ../../md_vs_rst.rst:25
+msgid ""
+"reStructuredText was invented for the purpose of writing technical "
+"documentation, and thus addresses the problems with Markdown through "
+"different features of the specification. For most normal writing, the "
+"overlap between the two makes producing ``.rst`` documents trivial if you"
+" are used to Markdown."
+msgstr ""
+
+#: ../../md_vs_rst.rst:31
+msgid ""
+"This may not be true for all flavours of Markdown. `Refer to this gist "
+"<https://gist.github.com/dupuy/1855764>`_ to see overlap and some "
+"differences."
+msgstr ""
+
+#: ../../md_vs_rst.rst:35
+msgid "Avoid converting existing documents"
+msgstr ""
+
+#: ../../md_vs_rst.rst:37
+msgid ""
+"When starting a new Sphinx project you should produce ``.rst`` documents,"
+" but if you already have ``.md`` documents there is no reason to re-write"
+" them. Sphinx can use ``recommonmark`` to include markdown documents as "
+"source files."
+msgstr ""
+

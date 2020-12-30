@@ -1,0 +1,68 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020, Reginald Maltais
+# This file is distributed under the same license as the NDVI Calculator
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: NDVI Calculator \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-29 16:46-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.7.0\n"
+
+#: ../../index.rst:25
+msgid "Contents:"
+msgstr ""
+
+#: ../../index.rst:7
+msgid "NDVI Calculator project documentation"
+msgstr ""
+
+#: ../../index.rst:9
+msgid ""
+"A look at producing project documentation in multiple languages by "
+"leveraging Sphinx."
+msgstr ""
+
+#: ../../index.rst:11
+msgid ""
+"NDVI Calculator is a fake project, but demonstrates building "
+"documentation from code. The python module calculates a Normalized "
+"Difference Vegetation Index (NDVI) for a small area in Saskatchewan."
+msgstr ""
+
+#: ../../index.rst:15
+msgid "This page needs some work"
+msgstr ""
+
+#: ../../index.rst:17
+msgid ""
+"Rather than just translating a some paragraphs this documentation will "
+"also show how different types of input that can be entered and how those "
+"affect the translation generator."
+msgstr ""
+
+#: ../../index.rst:36
+msgid "Indices and tables"
+msgstr ""
+
+#: ../../index.rst:38
+msgid ":ref:`genindex`"
+msgstr ""
+
+#: ../../index.rst:39
+msgid ":ref:`modindex`"
+msgstr ""
+
+#: ../../index.rst:40
+msgid ":ref:`search`"
+msgstr ""
+
