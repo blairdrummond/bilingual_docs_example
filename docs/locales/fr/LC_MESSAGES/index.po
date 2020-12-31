@@ -24,7 +24,7 @@ msgstr ""
 
 #: ../../index.rst:7
 msgid "NDVI Calculator project documentation"
-msgstr ""
+msgstr "Documentation du projet NDVI Calculator"
 
 #: ../../index.rst:9
 msgid ""

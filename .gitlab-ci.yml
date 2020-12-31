@@ -1,0 +1,33 @@
+variables:
+  ENGLISH_TITLE: NDVI Calculator project documentation
+  FRENCH_TITLE: Documentation du projet NDVI Calculator
+
+stages:
+  - docs
+
+# Example documentation deployment
+pages:
+  stage: docs
+  image: sphinxdoc/sphinx
+  before_script:
+    - pip3 install recommonmark sphinx-intl
+  script:
+    - mkdir -p public
+    - cp .splashpage/index.html public/index.html
+    - sed -i "s~ENGLISH_TITLE~$ENGLISH_TITLE~" public/index.html
+    - sed -i "s~FRENCH_TITLE~$FRENCH_TITLE~"   public/index.html
+    - cd docs
+    - make html
+    - mv _build/html ../public/en
+    - make gettext
+    - sphinx-intl update -p _build/gettext -l fr
+    - make -e SPHINXOPTS="-D language='fr'" html
+    - mv _build/html ../public/fr
+  artifacts:
+    paths:
+      - public
+  only:
+    - main
+    - master
+    - testing
+
